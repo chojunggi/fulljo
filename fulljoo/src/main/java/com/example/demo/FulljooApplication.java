@@ -2,7 +2,7 @@ package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//으야야ㅑ캬캬ㅇㅁㅇㅁ
+//으야야ㅑ캬캬ㅇㅁㅇㅁㅇㅇㅇ
 @SpringBootApplication
 public class FulljooApplication {
 
